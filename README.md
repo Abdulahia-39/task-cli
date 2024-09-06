@@ -12,7 +12,7 @@ A simple Python-based task manager that allows you to create, update, delete, an
 ## Installation
 
 1. Clone or download the repository.
-2. Make sure you have Python 3.x installed.
+2. Make sure you have atleast Python 3.11 installed.
 3. You do not need any external libraries since it only uses the standard Python libraries (`json`, `datetime`, `sys`).
 
 ## Usage
