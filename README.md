@@ -106,3 +106,5 @@ This project is open-source and free to use.
 ---
 
 Now you're ready to manage your tasks from the command line with ease!
+
+url: https://github.com/Abdulahia-39/task-cli.git
